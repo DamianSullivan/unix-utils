@@ -2,7 +2,7 @@
 Records all commands to a file for later searching.  
 usage:  
   source ~/bash_eternal_history.sh  
-  <type a bunch of commands>  
+  ...type a bunch of commands...  
   ? command (To find matches for the command in bash history.)
 
 ### Filesystem Bookmarks
