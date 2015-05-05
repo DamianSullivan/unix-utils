@@ -6,7 +6,7 @@ usage:
   ? command (To find matches for the command in bash history.)
 
 ### Filesystem Bookmarks
-A filesystem navigation tool when working with long directory structures.
+A filesystem navigation tool when working with long directory structures.  
 usage:  
   $ source ~/bookmarks.sh  
   $ cd /usr/local/home/long/path/to/dir  
