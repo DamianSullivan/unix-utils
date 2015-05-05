@@ -11,7 +11,7 @@ usage:
   $ source ~/bookmarks.sh  
   $ cd /usr/local/home/long/path/to/dir  
   $ bookmark dir  
-  $ cddir - now takes you back to that director  
+  $ cddir - now takes you back to that directory  
   $ rmbookmark dir - removes the bookmark  
 
 ### Orange Cursor  
