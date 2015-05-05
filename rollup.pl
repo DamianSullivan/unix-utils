@@ -18,11 +18,7 @@ my $DELIMITER = "\t";
 
 my $fh;
 if ($ARGV[0]) {
-    if ( -e $ARGV[0]) {
-        open $fh, '<', $ARGV[0];
-    } else {
-        die "$ARGV[0] does not exist!\n";
-    }
+    open $fh, '<', $ARGV[0] || die "$ARGV[0] does not exist!\n";
 } else {
     open $fh, '<-';
 }
